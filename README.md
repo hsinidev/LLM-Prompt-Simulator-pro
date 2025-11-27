@@ -1,6 +1,6 @@
 # LLM Prompt Simulator
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-llm.doodax.com-blue?style=for-the-badge)](http://llm.doodax.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blue?style=for-the-badge)](https://doodax.com/tools/llm-prompt-simulator/index.html)
 
 A professional, high-performance web application designed for Prompt Engineers and AI Developers. This tool simulates interactions with large language models (like Llama 3.1) using the Google Gemini API, allowing for rapid prototyping of system contexts and user queries.
 
